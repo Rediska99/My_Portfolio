@@ -1,0 +1,15 @@
+C:\Users\VVB\Desktop\ДЗ\zadacha7\bin\Debug\net6.0\zadacha7.exe
+C:\Users\VVB\Desktop\ДЗ\zadacha7\bin\Debug\net6.0\zadacha7.deps.json
+C:\Users\VVB\Desktop\ДЗ\zadacha7\bin\Debug\net6.0\zadacha7.runtimeconfig.json
+C:\Users\VVB\Desktop\ДЗ\zadacha7\bin\Debug\net6.0\zadacha7.dll
+C:\Users\VVB\Desktop\ДЗ\zadacha7\bin\Debug\net6.0\zadacha7.pdb
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\zadacha7.csproj.AssemblyReference.cache
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\zadacha7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\zadacha7.AssemblyInfoInputs.cache
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\zadacha7.AssemblyInfo.cs
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\zadacha7.csproj.CoreCompileInputs.cache
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\zadacha7.dll
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\refint\zadacha7.dll
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\zadacha7.pdb
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\zadacha7.genruntimeconfig.cache
+C:\Users\VVB\Desktop\ДЗ\zadacha7\obj\Debug\net6.0\ref\zadacha7.dll
